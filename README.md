@@ -1,2 +1,2 @@
-# ping-test
-ping-test from linuxdojo
+Ping test application
+ example
